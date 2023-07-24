@@ -8,10 +8,10 @@ interativo com os valores e a Produtividade Diária (Tarefas Concluídas por Hor
 - Ussar o google colab ele ja vem com as Bibliotecas e Python instalados
 - Clone o repositório para seu google colab
 - execute na seguencia cada celular
-- ## Ferramentas utilizadas
+## Ferramentas utilizadas
 - google colab
 - Linguagem PYthon 3
-- ## Bibliotecas
+## Bibliotecas
 - import pandas as pd
 - import plotly.express as px
 - import plotly.graph_objects as go
