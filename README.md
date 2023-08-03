@@ -15,7 +15,7 @@ e gerado um relatório com insights para uma posivel tomada de decisão para a m
 - Execute na seguencia cada celular
 ## Ferramentas utilizadas
 - google colab
-- Linguagem PYthon 3
+- Linguagem Python 3
 ## Bibliotecas
 - import pandas as pd
 - import plotly.express as px
