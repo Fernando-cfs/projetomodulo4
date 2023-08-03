@@ -6,8 +6,8 @@ Tarefas Concluídas e ter sua média diária e total, depois e gerado um gráfic
 interativo com os valores e a Produtividade Diária (Tarefas Concluídas por Hora) 
 ## Como usar e Instalação
 - Usar o google colab ele ja vem com as Bibliotecas e Python instalados
-- Clone o repositório para seu google colab
-- execute na seguencia cada celular
+- O repositório pode ser baixado para ceu computador e aberto no google colab
+- Execute na seguencia cada celular
 ## Ferramentas utilizadas
 - google colab
 - Linguagem PYthon 3
