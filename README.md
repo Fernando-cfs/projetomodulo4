@@ -1,5 +1,7 @@
 # Projeto Modulo 4
 Projeto Individual do Modulo 4, Resilia
+## Linkedin
+[Fernando Casanova](https://www.linkedin.com/in/fernandocfs/)
 ## Evidência
 Pojeto desenvolvido no google colab para gera relatorio da tabela com as seguintes
 colunas: Dia, Horas Trabalhadas, Bugs Corrigidos, Tarefas Concluídas e ter sua média 
